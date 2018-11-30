@@ -1,0 +1,27 @@
+.header a, a:hover {
+    color: #8a6d3b;
+    text-decoration: none;
+}
+.header h1{
+    letter-spacing: 5px;
+    font-size:300% ;
+}
+.header p{
+    color: white !important;
+    font-size: 90%;
+    letter-spacing: 5px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #1b6d85;
+    background-color: dimgray ;
+}
+.nav-pills>li>a {
+    color: white;
+
+}
+.nav-pills>li>a:hover {
+    background-color: #1b6d85;
+
+.navbar-inverse {
+   padding: 1%;
